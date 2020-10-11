@@ -11,7 +11,7 @@
 
 ***
 
-  ## File Sharing Over a Network (Windows OS)
+  ## File Sharing Over A Network (Windows OS)
   
    * File System         
      * formatting and partitioning a hard
