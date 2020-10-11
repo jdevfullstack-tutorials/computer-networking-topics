@@ -11,7 +11,7 @@
 
 ***
 
-  ## FILE SHARING OVER A NETWORK (WINDOWS OS)
+  ## File Sharing Over a Network (Windows OS)
   
    * File System         
      * formatting and partitioning a hard
@@ -29,7 +29,7 @@
      * setting a Workgroup for file sharing  
      
      
-  ## INTERNET PROTOCOL V4
+  ## Internet Protocol V4
   
    * the Network Layer
    * configuring the IPv4 address
@@ -41,7 +41,7 @@
    * the ping utility    
 
 
-  ## SERVER CONFIGURATION 
+  ## Server Configuration 
   
    * Internet Information Services (IIS) of Microsoft
    * WAMP
@@ -49,7 +49,7 @@
   Note: Configuring these servers are needed in the following activities. 
 
 
-  ## FILE TRANSFER PROTOCOL (FTP)
+  ## File Transfer Protocol (FTP)
   
   Why still study and use FTP? It's not dead. This is still relevant.
    Even some Android apps not only use FTP but improved it further.    
@@ -64,7 +64,7 @@
         * FTP Publishing  
    
 
-  ## THE WEBDAV EXTENSION   
+  ## The WebDAV Extension  
   
   Why still study and use WebDAV? It's a very powerful tool.
    It predates online versioning systems
@@ -74,7 +74,7 @@
    * WebDAV Publishing
     
 
-  ## WEB DEVELOPMENT USING WAMP
+  ## Web Development Using WAMP
   
    * static website
    * dynamic website 
