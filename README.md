@@ -6,12 +6,9 @@
  * THE WEBDAV EXTENSION 
  * WEB DEVELOPMENT USING WAMP 
  
-
   The details are at the bottom:
 
-***
-
-  ## File Sharing Over A Network (Windows OS)
+## File Sharing Over A Network (Windows OS)
   
    * File System         
      * formatting and partitioning a hard
@@ -29,7 +26,7 @@
      * setting a Workgroup for file sharing  
      
      
-  ## Internet Protocol V4
+## Internet Protocol V4
   
    * the Network Layer
    * configuring the IPv4 address
@@ -41,7 +38,7 @@
    * the ping utility    
 
 
-  ## Server Configuration 
+## Server Configuration 
   
    * Internet Information Services (IIS) of Microsoft
    * WAMP
@@ -49,7 +46,7 @@
   Note: Configuring these servers are needed in the following activities. 
 
 
-  ## File Transfer Protocol (FTP)
+## File Transfer Protocol (FTP)
   
   Why still study and use FTP? It's not dead. This is still relevant.
    Even some Android apps not only use FTP but improved it further.    
@@ -64,7 +61,7 @@
         * FTP Publishing  
    
 
-  ## The WebDAV Extension  
+## The WebDAV Extension  
   
   Why still study and use WebDAV? It's a very powerful tool.
    It predates online versioning systems
@@ -74,7 +71,7 @@
    * WebDAV Publishing
     
 
-  ## Web Development Using WAMP
+## Web Development Using WAMP
   
    * static website
    * dynamic website 
@@ -94,7 +91,6 @@
        * configuring Laravel 
        * web development using Laravel
 
-***
 ## Useful Links
 <https://support.microsoft.com/en-my/help/4092694/windows-10-file-sharing-over-a-network>
 
