@@ -5,8 +5,6 @@
  * FILE TRANSFER PROTOCOL (FTP)
  * THE WEBDAV EXTENSION 
  * WEB DEVELOPMENT USING WAMP 
- 
-  The details are at the bottom:
 
 ## File Sharing Over A Network (Windows OS)
   
